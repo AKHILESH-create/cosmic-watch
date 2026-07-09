@@ -1,5 +1,4 @@
-# cosmic-watch
-# 🛰️ Interstellar Asteroid Tracker & Risk Analyser
+# 🛰️ AstroShield - Asteroid Tracker & Risk Analyser
 
 A full-stack web application developed during the **24-Hour Code Relay 3.0 Hackathon** at **Pravaah'26**, organized by **Indian Institute of Technology (IIT) Bhubaneswar**.
 
